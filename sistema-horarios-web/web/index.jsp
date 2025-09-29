@@ -878,19 +878,7 @@
             font-weight: 400;
             color: #ffffff;
         }
-    </style>
-    
-    
-<%
-    for (int i = 0; i < 10; i++) {
-%>
-        <div>
-            <h1>Este h1 se repetira 10 veces</h1>
-        </div>
-<%
-}
-%>
-    
+    </style>  
 </head>
 <body>
     <div class="header">
